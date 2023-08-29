@@ -39,12 +39,6 @@ Tabela de conteúdos
 
 ---
 
-<h4 align="center"> 
-	  Status: Desafio finalizado.  
-</h4>
-
---- 
-
 ### Features
 
 - [x] Login do usuário(corretor de imoveis).
