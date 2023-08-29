@@ -68,7 +68,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ---
 
-#login 
+# login 
 
 Ao acessar a aplicação você será direcionado para a página de login:
 
@@ -164,7 +164,6 @@ total da venda
   <img alt="resumo-page-2" title="resumo-page-2" src="./screenshots/resumo-page-2.png" />
 </h1>
 
-
 Ao clicar em finalizar venda, se tiver tudo certo com a venda, ela será cadastrada no banco de dados e aparecerá uma mensagem de sucesso:
 
 <h1 align="center">
@@ -172,15 +171,11 @@ Ao clicar em finalizar venda, se tiver tudo certo com a venda, ela será cadastr
 </h1>
 
 E você será redirecionado para a página de imóveis.
-
-
-
-caso tenha algo de errado com a sua venda aparecerá uma mensagem de erro como por exemplo:
+Caso tenha algo de errado com a sua venda aparecerá uma mensagem de erro como por exemplo:
 
 <h1 align="center">
   <img alt="vendas-error-example" title="vendas-error-example" src="./screenshots/vendas-error-example.png" />
 </h1>
-
 
 e a venda não será registrada no banco de dados.
 
@@ -204,7 +199,7 @@ Ao clicar em cadastrar cliente abrirá um modal de cadastro de clientes:
 
 Preencha os dados do cliente, lembrando que não podem haver dois clientes com o mesmo cpf ou com o mesmo email, e clique em cadastrar.
 
-se tiver houver algum erro irá aparecer uma mensagem de erro com o erro que ocorreu. como por exemplo:
+Se tiver houver algum erro irá aparecer uma mensagem de erro com o erro que ocorreu. como por exemplo:
 
 <h1 align="center">
   <img alt="cadastrar-clientes-error-example" title="cadastrar-clientes-error-example" src="./screenshots/cadastrar-clientes-error-example.png" />
