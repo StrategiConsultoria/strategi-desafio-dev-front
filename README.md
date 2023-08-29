@@ -1,7 +1,7 @@
 # Documentação Frontend - Desafio técnico Strategi:
 
 ## Sobre
--Esta é a documentação do frontend do desafio.
+- Esta é a documentação do frontend do desafio.
 
 ---
 
